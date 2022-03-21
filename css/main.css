@@ -189,7 +189,8 @@ nav a:hover {
 }
 
 .flag:hover {
-    border: 1pt solid lightgray;;
+    border: 1pt solid lightgray;
+    cursor: pointer;
 }
 
 .flag svg {
